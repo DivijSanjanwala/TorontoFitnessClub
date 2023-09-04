@@ -1,0 +1,8 @@
+django
+virtualenv
+djangorestframework_simplejwt
+Pillow
+python-dateutil
+coreapi
+djangorestframework
+django-cors-headers
